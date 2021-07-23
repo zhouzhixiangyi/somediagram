@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T09:47:16.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 Edg/91.0.864.71" version="14.9.0" etag="CtlvnhmUEHIwaLS_a7SK" type="github"><diagram id="3LZpBELVIQs4ipOfWl1d">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-23T02:16:21.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 Edg/91.0.864.71" etag="dQhfYTAUVPtiTu4g7XO_" version="14.9.1" type="github">
+  <diagram id="3LZpBELVIQs4ipOfWl1d" name="Page-1">
+    <mxGraphModel dx="1374" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="kW97QJ-VfglOmy2TrgT8-2" target="kW97QJ-VfglOmy2TrgT8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="kW97QJ-VfglOmy2TrgT8-5" target="kW97QJ-VfglOmy2TrgT8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-5" value="用户在系统中选择待入库数据" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="170" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="kW97QJ-VfglOmy2TrgT8-7" target="kW97QJ-VfglOmy2TrgT8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-7" value="选择入库分类" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="170" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="kW97QJ-VfglOmy2TrgT8-9" target="kW97QJ-VfglOmy2TrgT8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-9" value="点就入库" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="170" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="kW97QJ-VfglOmy2TrgT8-11" target="kW97QJ-VfglOmy2TrgT8-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="kW97QJ-VfglOmy2TrgT8-11" target="kW97QJ-VfglOmy2TrgT8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-11" value="入库是否成功" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="390" y="455" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="kW97QJ-VfglOmy2TrgT8-13" target="kW97QJ-VfglOmy2TrgT8-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-13" value="重新选择" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-15" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="385" y="385" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="kW97QJ-VfglOmy2TrgT8-18" target="kW97QJ-VfglOmy2TrgT8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-18" value="成功" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="kW97QJ-VfglOmy2TrgT8-20" target="kW97QJ-VfglOmy2TrgT8-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-20" value="生成入库数据" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kW97QJ-VfglOmy2TrgT8-23" value="&lt;font style=&quot;font-size: 16px&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
